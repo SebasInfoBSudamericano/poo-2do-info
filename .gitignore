@@ -3,3 +3,7 @@
 
 # Ignore all .vscode directorys
 *.vscode
+
+#Ignore all .zip and .rar
+*.zip
+*.rar
