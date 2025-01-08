@@ -47,7 +47,7 @@ graph TD
   - Imprime e incrementa x en 5 si el resto es 0.
   - Imprime y decrementa y en 1 si el resto es 1.
   - Imprime e incrementa z en 1 si el resto es 2.
-  -
+  
 
 ```mermaid
 graph TD
