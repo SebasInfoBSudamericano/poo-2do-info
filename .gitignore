@@ -1,0 +1,9 @@
+# Ignore all .class files
+*.class
+
+# Ignore all .vscode directories
+*.vscode
+
+#Ignore all .zip and .rar
+*.zip
+*.rar
